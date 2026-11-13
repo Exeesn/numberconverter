@@ -1,2 +1,5 @@
 # numberconverter
-A small educational converter for converting numbers from one numeral system to another
+A small educational converter for converting numbers from one numeral system to another.
+
+Малый учебный конвертер для перевода чисел из одной системы исчисления в другую.
+Достаточно просто выбрать исходную систему исчисления, далее ввести определенное число и результат появится в двоичной, десятичной, шестнадцатеричной системах исчисления.
